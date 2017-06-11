@@ -23,6 +23,6 @@ dist/
 nbdist/
 .nb-gradle/
 
-#settings/
-#bin/
-#springboottest.log
+settings/
+bin/
+springboottest.log
